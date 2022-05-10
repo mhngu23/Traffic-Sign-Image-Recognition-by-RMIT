@@ -1,0 +1,8 @@
+
+*.xml
+*.pyc
+signRecognition/Lib/site-packages/_distutils_hack/__init__.py
+.idea/Traffic-Sign-Image-Recognition.iml
+*.py
+signRecognition/Lib/site-packages/absl_py-1.0.0.dist-info/AUTHORS
+signRecognition/
