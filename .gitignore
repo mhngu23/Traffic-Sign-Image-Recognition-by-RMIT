@@ -6,3 +6,10 @@ signRecognition/Lib/site-packages/_distutils_hack/__init__.py
 *.py
 signRecognition/Lib/site-packages/absl_py-1.0.0.dist-info/AUTHORS
 signRecognition/
+.ipynb_checkpoints/Traffic_Sign_Image_Recognition-checkpoint.ipynb
+*.json
+my_dir/helloworld/trial_0/checkpoint
+*.data-00000-of-00001
+*.index
+my_dir/helloworld/trial_1/checkpoint
+my_dir/helloworld/trial_2/checkpoint
